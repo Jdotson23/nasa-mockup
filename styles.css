@@ -12,8 +12,8 @@ h1{
     }
     .nasa-text{
       color: white;
-      margin-left:400px;
-      margin-top:250px;
+      margin-left:350px;
+      margin-top:200px;
       font-size: 100px;
       
     }
@@ -23,29 +23,47 @@ h1{
     flex-direction:row;
     width:850px;
     margin:10px; 
-    background-color: grey;
-    margin-top: 10px;
-    margin-left: 120px;
-    padding: 1px;
+    background-color:lightgray;
+    margin-top: 30px;
+    margin-left: 200px;
+    
+
   }
+
+ .three{
+   height: 324px;
+
+ }
 
   article{
     width:270px;
-    margin:1px;
-    padding:1px;
+    margin:20px;
+    padding-left:40px;
      }
 
    .two{
-     margin-left:20px;
-     margin-right:20px
+     margin-left:0px;
+     margin-right:0px
+   }
+
+   .two>h3{
+     padding:10px;
+     padding-bottom:10px;
+
+   }
+
+   .two>p{
+     width:150px;
+     height:100px ;
+     
    }
 
 
   p{
     margin:5px;
-    width:auto;
+    width:270px;
     height:auto;
-    padding:10px;
+    padding:1px;
   }
 
  
